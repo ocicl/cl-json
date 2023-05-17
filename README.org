@@ -1,0 +1,9 @@
+* cl-json
+
+Json encoder and decoder for Common Lisp.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/hankhero/cl-json.git |
+| commit  | 6dfebb9                                     |
+| systems | cl-json                                     |
+|---------+---------------------------------------------|
