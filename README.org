@@ -2,8 +2,8 @@
 
 Json encoder and decoder for Common Lisp.
 
-|---------+---------------------------------------------|
-| source  | git:https://github.com/hankhero/cl-json.git |
-| commit  | 6dfebb9                                     |
-| systems | cl-json                                     |
-|---------+---------------------------------------------|
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/sharplispers/cl-json.git |
+| commit  | 994dd38                                         |
+| systems | cl-json                                         |
+|---------+-------------------------------------------------|
