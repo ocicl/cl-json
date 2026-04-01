@@ -7,3 +7,4 @@ Json encoder and decoder for Common Lisp.
 | commit  | 994dd38                                         |
 | systems | cl-json                                         |
 |---------+-------------------------------------------------|
+ 
